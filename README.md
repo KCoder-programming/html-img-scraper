@@ -52,7 +52,7 @@ python download_notes.py
 
 ---
 
-License:
-MIT License
+## License:
+[MIT License](https://github.com/KCoder-programming/html-img-scraper/blob/main/LICENSE)
 
 Copyright (c) 2025 KCoder-programming
