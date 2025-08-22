@@ -38,6 +38,7 @@ python download_notes.py
 - tqdm
 - ttkbootstrap
 - python 3.x
+(given in [requirements.txt](https://github.com/KCoder-programming/html-img-scraper/blob/main/download_images.py))
 
 ## Usage
 1. Enter the URL of a page containing images.
