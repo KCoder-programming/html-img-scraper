@@ -1,0 +1,13 @@
+beautifulsoup4==4.13.4
+bs4==0.0.2
+certifi==2025.8.3
+charset-normalizer==3.4.3
+colorama==0.4.6
+idna==3.10
+pillow==10.4.0
+requests==2.32.5
+soupsieve==2.7
+tqdm==4.67.1
+ttkbootstrap==1.14.2
+typing_extensions==4.14.1
+urllib3==2.5.0
