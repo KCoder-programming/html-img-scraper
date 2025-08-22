@@ -5,6 +5,13 @@ This project is a lightweight Image-to-PDF scraper that lets you paste a webpage
 
 It’s designed for students and professionals who want to download notes, diagrams, or slides quickly and organize them neatly.
 
+---
+
+## Releases
+https://github.com/KCoder-programming/html-img-scraper/releases
+
+---
+
 ## Features
 - 🔗 Fetch all images from a web page.
 - 🖼️ Preview downloaded images inside the GUI.
