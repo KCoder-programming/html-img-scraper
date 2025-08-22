@@ -1,4 +1,4 @@
-# Download Notes – Image to PDF Scraper
+# Download Images – Image to PDF Scraper
 A Python utility to fetch images from a webpage, preview them in a GUI, and export them as a single PDF.
 
 This project is a lightweight Image-to-PDF scraper that lets you paste a webpage URL, automatically fetch all images, preview them inside the app, and save them either individually or combined into a single PDF.
@@ -17,8 +17,8 @@ It’s designed for students and professionals who want to download notes, diagr
 ## Installation
 - Clone the repository or download the source code.
   ```bash
-  git clone https://github.com/KCoder-programming/download-notes.git
-  cd download-notes
+  git clone https://github.com/KCoder-programming/html-img-scraper.git
+  cd html-img-scraper
   ```
 
 - Install dependencies:
@@ -28,7 +28,7 @@ It’s designed for students and professionals who want to download notes, diagr
 
 ## Run the app:
 ```bash
-python download_notes.py
+python download_images.py
 ```
 
 ## Requirements
@@ -39,7 +39,7 @@ python download_notes.py
 - ttkbootstrap
 - python 3.x
 
-(given in [requirements.txt](https://github.com/KCoder-programming/html-img-scraper/blob/main/download_images.py))
+(given in [requirements.txt](https://github.com/KCoder-programming/html-img-scraper/blob/main/requirements.txt))
 
 ## Usage
 1. Enter the URL of a page containing images.
